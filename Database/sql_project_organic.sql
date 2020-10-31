@@ -37,3 +37,10 @@ create table Comment(
 	Content text not null,
 	Created date not null
 )
+
+create CateBlog
+create CateProduct
+create faq
+create about
+create Orders
+create Checkout
