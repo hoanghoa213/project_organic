@@ -2,4 +2,4 @@
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 check
- <!--response.sendRedirect("productsController/getAllProducts.htm");  -->
+<% response.sendRedirect("testController/Testing.htm");  %>

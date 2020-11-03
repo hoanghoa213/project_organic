@@ -7,9 +7,9 @@ import java.sql.SQLException;
 
 public class DbConnection {
 	private static final String DRIVER = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
-	private static final String URL = "jdbc:sqlserver://localhost:1433;databaseName=QuanLySanPham";
-	private static final String USER = "sa";
-	private static final String PASS = "D@tma1989";
+	private static final String URL = "jdbc:sqlserver://dborganic.cdb4and4hegz.ap-southeast-1.rds.amazonaws.com:1433;databaseName=organic";
+	private static final String USER = "achoo254";
+	private static final String PASS = "Datma123";
 	
 	public static Connection openConnection(){
 		Connection conn = null;
