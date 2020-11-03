@@ -1,10 +1,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>Project_Organic</groupId>
-  <artifactId>Project_Organic</artifactId>
+  <groupId>Organic_project</groupId>
+  <artifactId>Organic_project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <dependencies>
+<dependencies>
 <!-- https://mvnrepository.com/artifact/javax.servlet/jsp-api -->
 <dependency>
     <groupId>javax.servlet</groupId>
@@ -44,14 +44,7 @@
     <artifactId>spring-orm</artifactId>
     <version>5.2.9.RELEASE</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/org.springframework.security/spring-security-web -->
-<dependency>
-    <groupId>org.springframework.security</groupId>
-    <artifactId>spring-security-web</artifactId>
-    <version>5.2.5.RELEASE</version>
-</dependency>
 
-  	
   </dependencies>  
   <build>
     <sourceDirectory>src</sourceDirectory>
