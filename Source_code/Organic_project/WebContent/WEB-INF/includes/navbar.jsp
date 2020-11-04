@@ -72,9 +72,9 @@
                         <img src="../resources/img/fr.png" alt=""> FRENCH
                     </a>
                     <div class="dropdown-menu myaccount-form-achoo" aria-labelledby="dropdownMenuLink">
-                        <a class="dropdown-item language-item" href="#"><img src="img/fr.png" alt=""> FRENCH</a>
-                        <a class="dropdown-item language-item" href="#"><img src="img/vn.png" alt=""> VIETNAMESE</a>
-                        <a class="dropdown-item language-item" href="#"><img src="img/uk.png" alt=""> ENGLISH</a>
+                        <a class="dropdown-item language-item" href="#"><img src="../resources/img/fr.png" alt=""> FRENCH</a>
+                        <a class="dropdown-item language-item" href="#"><img src="../resources/img/vn.png" alt=""> VIETNAMESE</a>
+                        <a class="dropdown-item language-item" href="#"><img src="../resources/img/uk.png" alt=""> ENGLISH</a>
                     </div>
                 </div>
             </div>

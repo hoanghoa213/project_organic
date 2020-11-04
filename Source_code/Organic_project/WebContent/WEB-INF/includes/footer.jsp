@@ -10,8 +10,8 @@
                         <img src="../resources/img/truck.png" alt="">
                     </div>
                     <div class="col-xl-9">
-                        <h2>FREE SHIPPING</h2>
-                        <p>WORLDWIDE</p>
+                        <h2>MIỄN PHÍ</h2>
+                        <p>TOÀN QUỐC</p>
                     </div>
                 </div>
             </div>
@@ -22,7 +22,7 @@
                     </div>
                     <div class="col-xl-9">
                         <h2>24X7</h2>
-                        <p>CUSTOMER SUPPORT</p>
+                        <p>HỖ TRỢ KHÁCH HÀNG</p>
                     </div>
                 </div>
             </div>
@@ -32,8 +32,8 @@
                         <img src="../resources/img/return.png" alt="">
                     </div>
                     <div class="col-xl-9">
-                        <h2>RETURNS</h2>
-                        <p>AND EXCHANGE</p>
+                        <h2>TRẢ HÀNG</h2>
+                        <p>VÀ ĐỔI HÀNG</p>
                     </div>
                 </div>
             </div>
@@ -44,7 +44,7 @@
                     </div>
                     <div class="col-xl-9">
                         <h2>HOTLINE</h2>
-                        <p>+(888) 888-8888</p>
+                        <p>+(84) 968.27.6996</p>
                     </div>
                 </div>
             </div>
@@ -59,7 +59,7 @@
                         <img src="../resources/img/location.png" alt="">
                     </div>
                     <div class="col-xl-10">
-                        <p>Lorem ipsum is dummy text of the printing typesetting</p>
+                        <p>Tòa Nhà HTC, 238 Hoàng Quốc Việt, Cổ Nhuế, Cầu Giấy, Hà Nội</p>
                     </div>
                 </div>
                 <div class="row">
@@ -67,7 +67,7 @@
                         <img src="../resources/img/phone1.png" alt="">
                     </div>
                     <div class="col-xl-8">
-                        <p>+(91) 123456789</p>
+                        <p>+(84) 024 3755 4010</p>
                     </div>
                 </div>
                 <div class="row">
@@ -75,41 +75,28 @@
                         <img src="../resources/img/mail.png" alt="">
                     </div>
                     <div class="col-xl-8">
-                        <p>inquiry@nognic.com</p>
+                        <p>tuyensinh@bachkhoa-aptech.edu.vn</p>
                     </div>
                 </div>
             </div>
             <div class="col-xl-2 center-link">
-                <h3>INFOMATION</h3>
+                <h3>Thông tin</h3>
                 <ul>
-                    <li><a href="404-page.html">Site Map</a></li>
-                    <li><a href="404-page.html">Search Terms</a></li>
-                    <li><a href="404-page.html">Advanced Search</a></li>
-                    <li><a href="about.html">About Us</a></li>
-                    <li><a href="contact.html">Contact Us</a></li>
-                    <li><a href="404-page.html">Suppliers</a></li>
+                    <li><a href="about.html">Về chúng tôi</a></li>
+                    <li><a href="contact.html">Liên hệ</a></li>
                 </ul>
             </div>
             <div class="col-xl-3 center-link">
-                <h3>STYLE ADVISOR</h3>
+                <h3>Tài khoản</h3>
                 <ul>
-                    <li><a href="my-account.html">Your Account</a></li>
-                    <li><a href="404-page.html">Infomation</a></li>
-                    <li><a href="404-page.html">Addresses</a></li>
-                    <li><a href="404-page.html">Discount</a></li>
-                    <li><a href="404-page.html">Orders History</a></li>
-                    <li><a href="404-page.html">Additional Infomation</a></li>
+                    <li><a href="my-account.html">Thông tin tài khoản</a></li>
                 </ul>
             </div>
             <div class="col-xl-2 center-link">
-                <h3>QUICK LINKS</h3>
+                <h3>Truy cập nhanh</h3>
                 <ul>
                     <li><a href="blog.html">Blog</a></li>
                     <li><a href="FAQ.html">FAQs</a></li>
-                    <li><a href="404-page.html">Payment</a></li>
-                    <li><a href="404-page.html">Shipment</a></li>
-                    <li><a href="404-page.html">Where is my order?</a></li>
-                    <li><a href="404-page.html">Return policy</a></li>
                 </ul>
             </div>
             <div class="col-xl-2 center-link">
@@ -132,21 +119,21 @@
         <div class="last-bar">
             <div class="row">
                 <div class="col-xl-4 copyright">
-                    <p>&#169 NOGNIC <span>2019 All rights Reserved</span></p>
-                    <p>Website designed & Developed by <span>NCode Technologies, Inc.</span></p>
+                    <p>&#169 ORGANIC <span>2020 All rights Reserved</span></p>
+                    <p>Website designed & Developed by <span>Team Project Organic.</span></p>
                 </div>
                 <div class="col-xl-4 social-end">
-                    <a href="" class="social-end-link"><i class="fab fa-facebook-f"></i></a>
-                    <a href="" class="social-end-link"><i class="fab fa-twitter"></i></a>
-                    <a href="" class="social-end-link"><i class="fab fa-google-plus-g"></i></a>
-                    <a href="" class="social-end-link"><i class="fab fa-pinterest-p"></i></a>
-                    <a href="" class="social-end-link"><i class="fab fa-youtube"></i></a>
+                    <a href="https://www.facebook.com/BachkhoaAptech236HoangQuocViet/" target="_blank" class="social-end-link"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.facebook.com/BachkhoaAptech236HoangQuocViet/" target="_blank" class="social-end-link"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/BachkhoaAptech236HoangQuocViet/" target="_blank" class="social-end-link"><i class="fab fa-google-plus-g"></i></a>
+                    <a href="https://www.facebook.com/BachkhoaAptech236HoangQuocViet/" target="_blank" class="social-end-link"><i class="fab fa-pinterest-p"></i></a>
+                    <a href="https://www.facebook.com/BachkhoaAptech236HoangQuocViet/" target="_blank" class="social-end-link"><i class="fab fa-youtube"></i></a>
                 </div>
                 <div class="col-xl-4 payment" align="right">
-                    <a href=""><img src="../resources/img/PayPal.png" alt=""></a>
-                    <a href=""><img src="../resources/img/VISA.png" alt=""></a>
-                    <a href=""><img src="../resources/img/AMERICAN-EXPRESS.png" alt=""></a>
-                    <a href=""><img src="../resources/img/MasterCard.png" alt=""></a>
+                    <a href="https://www.facebook.com/BachkhoaAptech236HoangQuocViet/" target="_blank"><img src="../resources/img/PayPal.png" alt=""></a>
+                    <a href="https://www.facebook.com/BachkhoaAptech236HoangQuocViet/" target="_blank"><img src="../resources/img/VISA.png" alt=""></a>
+                    <a href="https://www.facebook.com/BachkhoaAptech236HoangQuocViet/" target="_blank"><img src="../resources/img/AMERICAN-EXPRESS.png" alt=""></a>
+                    <a href="https://www.facebook.com/BachkhoaAptech236HoangQuocViet/" target="_blank"><img src="../resources/img/MasterCard.png" alt=""></a>
                 </div>
             </div>
         </div>
