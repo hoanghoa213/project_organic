@@ -18,13 +18,14 @@
                 </div>
                 <div class="form-check text-center new-popup-achoo">
                     <input type="checkbox" class="form-check-input " id="popup">
-                    <label class="form-check-label" for="popup">Don't show thí popup again</label>
+                    <label class="form-check-label" for="popup">Don't show this popup again</label>
                 </div>
             </div>
         </div>
-    </div>
+    </div> 
 </div>
 <!--KET THUC POPUP-->
+<<<<<<< Updated upstream
 <header>
     <div class="info-bar">
         <div class="row">
@@ -145,6 +146,9 @@
             </div>
         </div>
     </div>
+=======
+
+>>>>>>> Stashed changes
     <nav class="navbar navbar-expand-xl navbar-dark container menu">
         <button class="navbar-toggler" id="btn-collapse" type="button" data-toggle="collapse"
             data-target="#navbarSupportedContentXL" aria-controls="navbarSupportedContentXL" aria-expanded="false"
@@ -233,4 +237,3 @@
             </ul>
         </div>
     </nav>
-</header>

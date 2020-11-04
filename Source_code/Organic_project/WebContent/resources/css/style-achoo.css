@@ -178,6 +178,14 @@ input.asterisk{
 .checkout-table-padding-achoo{
     padding: 0px 30px;
 }
+#CHECKOUT{
+	font-size: 14px;
+	text-align: center;
+}
+#viewcart{
+	font-size: 14px;
+	text-align: center;
+}
 .checkout-form-padding-achoo{
     padding: 0px 40px;
 }
