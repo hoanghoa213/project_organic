@@ -11,9 +11,9 @@
        http://www.springframework.org/schema/tx/spring-tx-4.1.xsd">
 	<bean id="myDataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 		<property name="driverClassName" value="com.microsoft.sqlserver.jdbc.SQLServerDriver"/>
-		<property name="url" value="jdbc:sqlserver://localhost:1433;databaseName=QuanLySanPham"/>
-		<property name="username" value="sa"/>
-		<property name="password" value="D@tma1989"/>
+		<property name="url" value="jdbc:sqlserver://dborganic.cdb4and4hegz.ap-southeast-1.rds.amazonaws.com:1433;databaseName=organic"/>
+		<property name="username" value="achoo254"/>
+		<property name="password" value="Datma123"/>
 	</bean>
 	<bean id="sessionFactory" class="org.springframework.orm.hibernate5.LocalSessionFactoryBean">
 		<property name="dataSource" ref="myDataSource"/>

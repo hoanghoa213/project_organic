@@ -1,32 +1,37 @@
-create database Project_Organic
+create database organic
 go
-use Project_Organic
+use organic
 go
-create table Moderator(
-	ModID int IDENTITY(1,1) PRIMARY KEY,
-	UserName varchar(50) not null,
-	Passwords nvarchar(100) not null,
-	Roles nvarchar(50) not null,
-	ModStatus bit not null
-)
-go
-create table Customer(
-	CusID int IDENTITY(1,1) PRIMARY KEY,
+create table Account(
+	AccountID int IDENTITY(1,1) PRIMARY KEY,
 	UserName varchar(50) not null,
 	FullName nvarchar(100) not null,
 	Passwords nvarchar(100) not null,
+	Birthday date not null,
 	Email nvarchar(200) not null,
-	CusStatus bit not null
+	Phone nvarchar(100),
+	AccAddress nvarchar(200),
+	AccStatus bit not null
+)
+go
+create table Groups(
+	GroupID int IDENTITY(1,1) PRIMARY KEY,
+	Name nvarchar(100) not null
+)
+go
+create table GroupAccount(
+	GroupAccount int IDENTITY(1,1) PRIMARY KEY,
+	AccountID int FOREIGN KEY REFERENCES Account(AccountID) not null,
+	GroupID int FOREIGN KEY REFERENCES Groups(GroupID) not null
 )
 go
 create table Blog(
 	BlogID int IDENTITY(1,1) PRIMARY KEY,
 	Title nvarchar(200) not null,
-	Content text not null,
-	Created date not null,
-	Tag nvarchar(50),
-	ModID int,
-	CommentID int
+	Contents text not null,
+	Created datetime DEFAULT GETDATE(),
+	Images nvarchar(1000),
+	AccountID int FOREIGN KEY REFERENCES Account(AccountID) not null
 )
 go
 create table Comment(
@@ -35,7 +40,8 @@ create table Comment(
 	Email nvarchar(200) not null,
 	Website nvarchar(300),
 	Content text not null,
-	Created date not null
+	Created datetime DEFAULT GETDATE(),
+	BlogID int FOREIGN KEY REFERENCES Blog(BlogID) not null
 )
 
 create CateBlog
@@ -44,3 +50,4 @@ create faq
 create about
 create Orders
 create Checkout
+
